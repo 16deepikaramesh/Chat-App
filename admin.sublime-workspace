@@ -1,0 +1,256 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"hei",
+				"height	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Plugin Development: Profile Events"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/computer/Desktop/ani.html",
+		"/C/Users/computer/Desktop/My blog/family.html",
+		"/C/Users/computer/Desktop/My blog/myblog.html",
+		"/C/Users/computer/Desktop/My blog/friends.html",
+		"/C/Users/computer/Desktop/bday.html",
+		"/C/Users/computer/Desktop/My blog/photos.html",
+		"/C/Users/computer/Desktop/blog/blog.html",
+		"/C/Users/computer/Desktop/arun1.html",
+		"/C/xampp/htdocs/submit.php",
+		"/C/Users/computer/Desktop/blog/submit.php",
+		"/C/xampp/htdocs/feed.php",
+		"/C/Users/computer/Desktop/blog/sachin.html",
+		"/C/xampp/htdocs/db.php",
+		"/C/Users/computer/Desktop/blog/ppc.html",
+		"/C/Users/computer/Desktop/blog/Early Years.html",
+		"/C/Users/computer/Desktop/blog/personal.html",
+		"/C/Users/computer/Desktop/blog/cricket life.html",
+		"/C/Users/computer/Desktop/blog/Success.html",
+		"/C/Users/computer/Desktop/blog/feed.html",
+		"/C/Users/computer/Desktop/blog/PPC.html",
+		"/C/Users/computer/Desktop/blog/His Success.html",
+		"/C/xampp/htdocs/fform.html",
+		"/C/Users/computer/Documents/GitHub/Sample/index.html",
+		"/C/xampp/htdocs/sum.php",
+		"/C/Users/computer/Documents/GitHub/Sangavi/index.html",
+		"/C/Users/computer/Desktop/index.html",
+		"/C/Users/computer/Desktop/blog/history.html",
+		"/C/Program Files/Sublime Text 3/first.html",
+		"/C/Users/computer/Desktop/blog.html",
+		"/C/Users/computer/Desktop/IPT/boot.html",
+		"/C/Program Files/Sublime Text 3/form.html",
+		"/C/Users/computer/Desktop/form.html",
+		"/C/Users/computer/Desktop/Student detail.html",
+		"/C/Users/computer/Desktop/second.html",
+		"/C/Users/computer/Desktop/first.html",
+		"/C/Users/computer/Desktop/c.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bl",
+			"return",
+			";\n",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\computer\\Desktop\\form.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
